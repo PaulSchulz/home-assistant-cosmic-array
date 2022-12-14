@@ -1,0 +1,17 @@
+* home-assistant-cosmic-array
+A Home Assistant Integration for the Cosmic Array sensors.
+
+** Introduction
+
+** Installation
+[[https://my.home-assistant.io/redirect/config_flow_start/?domain=cosmic_array]]
+
+** Development Notes
+*** Scaffold
+The original files for this integration were created with the 'integration'
+scaffold creation tool, available in the Home Assistant codebase.
+
+#+begin_src shell
+  source venv/bin/activate
+  python3 -m script.scaffold integration
+#+end_src
